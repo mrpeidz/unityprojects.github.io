@@ -1,0 +1,13 @@
+{
+"companyName": "mrpeidz",
+"productName": "CircleD",
+"dataUrl": "circled.data.unityweb",
+"asmCodeUrl": "circled.asm.code.unityweb",
+"asmMemoryUrl": "circled.asm.memory.unityweb",
+"asmFrameworkUrl": "circled.asm.framework.unityweb",
+"TOTAL_MEMORY": 94371840,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

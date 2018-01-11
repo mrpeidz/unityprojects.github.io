@@ -1,0 +1,13 @@
+{
+"companyName": "mrpeidz",
+"productName": "HexApuzzle",
+"dataUrl": "hexapuzzle.data.unityweb",
+"asmCodeUrl": "hexapuzzle.asm.code.unityweb",
+"asmMemoryUrl": "hexapuzzle.asm.memory.unityweb",
+"asmFrameworkUrl": "hexapuzzle.asm.framework.unityweb",
+"TOTAL_MEMORY": 94371840,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

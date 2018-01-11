@@ -1,0 +1,13 @@
+{
+"companyName": "mrpeidz",
+"productName": "Black Reef",
+"dataUrl": "blackreef.data.unityweb",
+"asmCodeUrl": "blackreef.asm.code.unityweb",
+"asmMemoryUrl": "blackreef.asm.memory.unityweb",
+"asmFrameworkUrl": "blackreef.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

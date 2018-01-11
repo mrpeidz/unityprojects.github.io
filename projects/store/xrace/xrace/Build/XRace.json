@@ -1,0 +1,13 @@
+{
+"companyName": "MrPage",
+"productName": "BreakThrough",
+"dataUrl": "XRace.data.unityweb",
+"asmCodeUrl": "XRace.asm.code.unityweb",
+"asmMemoryUrl": "XRace.asm.memory.unityweb",
+"asmFrameworkUrl": "XRace.asm.framework.unityweb",
+"TOTAL_MEMORY": 94371840,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

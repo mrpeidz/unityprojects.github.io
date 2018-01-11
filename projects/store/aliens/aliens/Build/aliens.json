@@ -1,0 +1,13 @@
+{
+"companyName": "mrpeidz",
+"productName": "Alien Escape",
+"dataUrl": "aliens.data.unityweb",
+"asmCodeUrl": "aliens.asm.code.unityweb",
+"asmMemoryUrl": "aliens.asm.memory.unityweb",
+"asmFrameworkUrl": "aliens.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
