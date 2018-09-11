@@ -1,0 +1,13 @@
+{
+"companyName": "mrpage",
+"productName": "cstd",
+"dataUrl": "a6c28ee0e93afd6e18851dad19bb83c9.unityweb",
+"asmCodeUrl": "9042af360582ca2391129b03fa7c8850.unityweb",
+"asmMemoryUrl": "22cf85a5ecdc78500596edcde7c3be6c.unityweb",
+"asmFrameworkUrl": "72c032dc19acb2c6760b83f5a6b44473.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
