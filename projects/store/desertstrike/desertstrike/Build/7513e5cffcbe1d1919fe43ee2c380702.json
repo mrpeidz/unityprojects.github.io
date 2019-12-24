@@ -1,0 +1,15 @@
+{
+"companyName": "ksanux",
+"productName": "DesertStrike",
+"productVersion": "1.0",
+"dataUrl": "48e8acf19859db8a95a3129d87a2b617.unityweb",
+"wasmCodeUrl": "e3ee5bc13e0bc2b57b61c8f0cc402ee9.unityweb",
+"wasmFrameworkUrl": "b7f32fef4bbfd678b187696117f82339.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.15f1"
+}
